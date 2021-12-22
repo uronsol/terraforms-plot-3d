@@ -3,7 +3,7 @@
 Python tool to visualize terraforms metadata in 3D.
 
 ## Example
-![Example Image](https://github.com/uronsol/terraforms-characters-colors/blob/main/example/example.png)
+![Example Image](https://github.com/uronsol/terraforms-plot-3d/blob/main/example/example.png)
 
 ## Attribution
 
